@@ -11,3 +11,8 @@
 .Inline {
   display: inline;
 }
+
+.Deadline-input {
+  display: block;
+  margin: 0 auto;
+}
